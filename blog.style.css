@@ -1,0 +1,75 @@
+
+/*Cabeçalho - header */
+main {
+    display: block;
+    background-color: rgb(243, 238, 238);
+    width: 1000px;
+    height: 3440px;
+    padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 25px;  
+}
+
+main h1 {
+    background-color: #3d004d;
+    width: 920px;
+    font-size: 40px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+
+.secoes-conteudos-principais {
+    background-color: #3d004d;
+    width: 920px;
+    height: 380px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding: 0 40px;
+}
+
+.secoes-conteudos-principais img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+
+.secoes-conteudos-principais article h2 {
+    font-size: 40px;
+}
+
+.secoes-conteudos-principais article p {
+    margin-top: 20px;
+}
+
+
+.secoes-conteudos-principais article button {
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    margin-left: 340px;
+}
+
+.secoes-conteudos-principais article button a {
+    margin: auto;
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(0, 70, 0);
+
+}
+
+.secoes-conteudos-principais article button a:hover {
+    color: #b3370a;
+}
+
