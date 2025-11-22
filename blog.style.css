@@ -12,7 +12,7 @@ main {
 }
 
 main h1 {
-    background-color: #3d004d;
+    background: -webkit-linear-gradient(90deg, #090f30,#000000,#190631);background: linear-gradient(90deg, #090f30,#000000,#190631);
     width: 920px;
     font-size: 40px;
     padding: 20px;
@@ -22,7 +22,7 @@ main h1 {
 
 
 .secoes-conteudos-principais {
-    background-color: #3d004d;
+    background: -webkit-linear-gradient(90deg, #090f30,#000000,#190631);background: linear-gradient(90deg, #090f30,#000000,#190631);
     width: 920px;
     height: 380px;
     display: flex;

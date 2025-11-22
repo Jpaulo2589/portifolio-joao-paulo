@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(93deg,rgb(20, 0, 25) 43%, rgba(85, 11, 89, 1) 100%);
+    background: -webkit-linear-gradient(90deg, #090f30,#000000,#190631);background: linear-gradient(90deg, #090f30,#000000,#190631);
     color: white;
     padding: 30px 0;
 }
@@ -17,7 +17,7 @@ header img {
 }
 
 header nav {
-    background: linear-gradient(93deg,#520066 43%, rgba(85, 11, 89, 1) 100%);
+    background: -webkit-linear-gradient(90deg, #090f30,#000000,#190631);background: linear-gradient(90deg, #1e32a1,#000000,#2f0b5a);
     display: flex;
     justify-content: space-between;
     width: 1000px;
@@ -99,7 +99,7 @@ main section h2 {
 }
 
 main section h2 span {
-    color: #a600cf;
+    color: #d900ff;
 }
 
 main section p {
